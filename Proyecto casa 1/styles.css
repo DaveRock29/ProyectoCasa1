@@ -1,0 +1,15 @@
+:root {
+    --green: #00bbff;
+    --black: #860ef0;
+}
+
+body {
+    background: var(--bg);
+}
+.bgchange {
+    --bg: var(--green);
+}
+.bg {
+    --bg: var(--black);
+    
+}
